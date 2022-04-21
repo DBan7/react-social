@@ -1,53 +1,53 @@
 export const Users = [
     {
-        id:1,
+        id: 1,
         profilePicture: "/assets/person/1.jpeg",
-        username: "Marta Botafogo",
+        username: "Marta Oliveira",
     },
     {
-        id:2,
+        id: 2,
         profilePicture: "/assets/person/2.jpeg",
-        username: "Junior Junio",
+        username: "Kleber Santos",
     },
     {
-        id:3,
+        id: 3,
         profilePicture: "/assets/person/3.jpeg",
-        username: "Cleiton Rasta",
+        username: "João Cardoso",
     },
     {
-        id:4,
+        id: 4,
         profilePicture: "/assets/person/4.jpeg",
-        username: "Jao Bragantino",
+        username: "Adriana Pereira",
     },
     {
-        id:5,
+        id: 5,
         profilePicture: "/assets/person/5.jpeg",
-        username: "vermelho Flamengo",
+        username: "Roberta da Costa",
     },
     {
-        id:6,
+        id: 6,
         profilePicture: "/assets/person/6.jpeg",
-        username: "verde Palmeiras",
+        username: "Vitoría Gomes",
     },
     {
-        id:7,
+        id: 7,
         profilePicture: "/assets/person/7.jpeg",
-        username: "Gol Quadrado",
+        username: "Thiago Silva",
     },
     {
-        id:8,
+        id: 8,
         profilePicture: "/assets/person/8.jpeg",
-        username: "cg 125",
+        username: "Sophia Maia",
     },
     {
-        id:9,
+        id: 9,
         profilePicture: "/assets/person/9.jpeg",
-        username: "Ipsum Lorem",
+        username: "Nathalia Paz",
     },
     {
-        id:10,
+        id: 10,
         profilePicture: "/assets/person/10.jpeg",
-        username: "Nauro Jp",
+        username: "Clara Almeida",
     },
 ];
 
@@ -81,7 +81,7 @@ export const Posts = [
     {
         id: 4,
         photo: "/assets/post/4.jpeg",
-        
+
         date: "25 min ago",
         userId: 4,
         like: 22,
